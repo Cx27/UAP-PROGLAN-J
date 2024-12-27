@@ -43,13 +43,27 @@ Sebelum menjalankan aplikasi ini, pastikan Anda memiliki:
 Menu Transaksi.java // Kelas utama untuk tampilan dan pengelolaan transaksi 
 Harian.java // Halaman harian atau tampilan transaksi sebelumnya
 
+## Cara Menggunakan Aplikasi
+**Buat Transaksi Baru**:
+- Pilih Pengeluaran atau Pemasukan dengan menggunakan RadioButton.
+- Pilih kategori transaksi menggunakan ComboBox.
+- Tentukan tanggal transaksi menggunakan DatePicker.
+- Masukkan jumlah uang transaksi pada TextField.
+- Klik tombol Simpan untuk menyimpan transaksi baru.
+
+**Validasi Input**:
+- Jika jumlah kosong atau tidak valid (bukan angka), aplikasi akan memberikan pesan error.
+- Jumlah transaksi minimal 1.
+
+**Navigasi**:
+- Klik tombol Kembali untuk kembali ke halaman utama atau sebelumnya.
+
 ## Cara Menjalankan Aplikasi
 
-### 1. Clone atau Download Repository
+### Clone atau Download Repository
 
 Clone atau unduh repository ini ke komputer Anda.
 
 ```bash
 git clone https://github.com/username/aplikasi-transaksi.git
 
-Atau Anda dapat mendownloadnya langsung sebagai ZIP melalui halaman repository GitHub.
