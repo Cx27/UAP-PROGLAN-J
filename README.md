@@ -39,4 +39,6 @@ Sebelum menjalankan aplikasi ini, pastikan Anda memiliki:
 - **JavaFX** sudah terinstal pada sistem Anda (tergantung pada cara instalasi JDK Anda).
 
 ## Struktur Direktori
-/src /com /main /tubes /Database Pusat.java // Kelas untuk mengelola database transaksi /Menu Transaksi.java // Kelas utama untuk tampilan dan pengelolaan transaksi Harian.java // Halaman harian atau tampilan transaksi sebelumnya
+/src /com /main /tubes /Database Pusat.java // Kelas untuk mengelola database transaksi /
+Menu Transaksi.java // Kelas utama untuk tampilan dan pengelolaan transaksi 
+Harian.java // Halaman harian atau tampilan transaksi sebelumnya
