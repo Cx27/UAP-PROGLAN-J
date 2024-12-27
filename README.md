@@ -51,3 +51,5 @@ Clone atau unduh repository ini ke komputer Anda.
 
 ```bash
 git clone https://github.com/username/aplikasi-transaksi.git
+
+Atau Anda dapat mendownloadnya langsung sebagai ZIP melalui halaman repository GitHub.
