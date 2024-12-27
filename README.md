@@ -42,3 +42,12 @@ Sebelum menjalankan aplikasi ini, pastikan Anda memiliki:
 /src /com /main /tubes /Database Pusat.java // Kelas untuk mengelola database transaksi /
 Menu Transaksi.java // Kelas utama untuk tampilan dan pengelolaan transaksi 
 Harian.java // Halaman harian atau tampilan transaksi sebelumnya
+
+## Cara Menjalankan Aplikasi
+
+### 1. Clone atau Download Repository
+
+Clone atau unduh repository ini ke komputer Anda.
+
+```bash
+git clone https://github.com/username/aplikasi-transaksi.git
